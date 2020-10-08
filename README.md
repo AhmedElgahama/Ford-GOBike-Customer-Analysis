@@ -1,4 +1,4 @@
-# Ford-GOBike-Customer-Analysis
+# FordGoBike Customer Analysis
 ## by Ahmed Elgahama
 
 
@@ -55,15 +55,14 @@ and that customers uses the bikes on average for longer times than subscribers a
 - Almost all the two rental access method groups show similar trend in terms of for what average duration they rented the bikes on June and July but they show the opposite trend in the months November and December where we can see that app users renting time decrease while clipper users time increase
 and in general app users uses the bikes for longer times than clipper users all months
 
--
 
 
 
 ## Key Insights for Presentation
 
 > People are likely to use bikes for in the beggining and ending of the wroking hours.
-  Compared to the subscriber, the customer has a higher duration .
-  people tend not to share bikes for all trips.
+> Compared to the subscriber, the customer has a higher duration .
+> people tend not to share bikes for all trips.
   
   
   
