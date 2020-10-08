@@ -39,16 +39,16 @@ Bay Wheels is a public bicycle system, or bike-share scheme, in which bicycles a
 
 - When we related duration with hours, we saw that there was an interesting pattern. During the early morning hours form 1a.m. to 4 a.m., people have less liked to rent bikes and also the ones who rented were also for short duration. While most number of bikes around 2 p.m. were rented for high duration of around 10 minutes.
 
--there is an interesting observation that customer user type are regular with renting with the same number all week on the other side subscriber user type decrease over weekends
+- there is an interesting observation that customer user type are regular with renting with the same number all week on the other side subscriber user type decrease over weekends
 
 - it seems that subscribers use the bikes neerly for the same time all days
 on the other way customers tend to use the bikes for longer time on weekends
 and that customers uses the bikes on average for longer times than subscribers all days
 
--Almost all the two rental access method groups show similar trend in terms of for what average duration they rented the bikes on each weekday
+- Almost all the two rental access method groups show similar trend in terms of for what average duration they rented the bikes on each weekday
 and that app users uses the bikes for longer times than clipper users all days
 
--it seems that subscribers use the bikes neerly for the same time all months
+- it seems that subscribers use the bikes neerly for the same time all months
 on the other way customers tend to use the bikes for longer time in the first half of the year
 and that customers uses the bikes on average for longer times than subscribers all months
 
@@ -61,7 +61,9 @@ and in general app users uses the bikes for longer times than clipper users all 
 ## Key Insights for Presentation
 
 > People are likely to use bikes for in the beggining and ending of the wroking hours.
+
 > Compared to the subscriber, the customer has a higher duration .
+
 > people tend not to share bikes for all trips.
   
   
